@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goldsmdn
-- 👀 I’m interested in Quantum Error Correction
-- 🌱 I’m currently learning Quantum Technology at UCL
+- 👀 I’m interested in Quantum Error Correction and writing Python games
+- 🌱 I have an MSc in Quantum Technology at UCL
 - 💞️ I’m looking to collaborate on Qiskit quantum error correction projects, particularly with the Steane code.
 - 📫 How to reach me on daniel.goldsmith.20@ucl.ac.uk
 
